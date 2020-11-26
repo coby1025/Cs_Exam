@@ -24,3 +24,7 @@ The users in this CSE software are the audience. The stakeholders are the develo
 |Actors| Software developers|
 |Type| Primary|
 |Description| The software developerscan develop new animation for Hatsune to do that will bring a new level of excitement to the audience when they watch her perform|
+
+Citations:
+“Crypton.” Crypton, ec.crypton.co.jp/pages/prod/virtualsinger/cv01_us. Accessed 25 Nov. 2020.
+“Hatsune Miku.” Wikipedia, Hatsune Miku, en.wikipedia.org/wiki/Hatsune_Miku. Accessed 25 Nov. 2020.
