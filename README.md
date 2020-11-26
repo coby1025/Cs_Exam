@@ -18,6 +18,7 @@ The users in this CSE software are the audience. The stakeholders are the develo
 |Description| The audience are the fans who buy the merchandise and the tickets to the concert and are experiencing the product performing live|
 |Use Case| Concert Organizer|
 |Actors| Marketing and Public realtions team  |
+|Type| Primary|
 |Description| Team of people who book and scheudle the venues and set prices for the tickets to the concert |
 |Use case| Animation(new Use Case) |
 |Actors| Software developers|
